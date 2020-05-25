@@ -18,9 +18,9 @@ Mini projects done in codeskulptor in 2017 for Principles of Computing (Part 1) 
 
 [Version en dos filas](http://www.codeskulptor.org/#user42_Hy04NCzayL_1.py)
 
-[Mini project week6](http://www.codeskulptor.org/#user42_31pNi2VutW_7.py)
+[Black jack](http://www.codeskulptor.org/#user42_31pNi2VutW_7.py)
 
-[Mini project week 7](http://www.codeskulptor.org/#user42_VQmNIYmzQp_6.py)
+[Bubble shooter](http://www.codeskulptor.org/#user42_VQmNIYmzQp_6.py)
 
 [start with rocks](http://www.codeskulptor.org/#user42_gPoQaBHTyq_14.py)
 
